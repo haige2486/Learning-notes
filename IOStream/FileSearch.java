@@ -12,7 +12,6 @@ public class FileSearch {
 		try {
 			f(new File("D:\\"), "∂‘œÛ");
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
