@@ -3,7 +3,11 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
-
+/**
+ * ÎÄ¼þ°üº¬×Ö·ûËÑË÷
+ * @author lustg
+ *
+ */
 public class FileSearch {
 
 	static int m = 1;
